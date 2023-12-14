@@ -1,4 +1,3 @@
-# house-rent-prediction
-## Using Lieaner Regression
-# Diabetese
-## Using Decision Tree
+# Lieaner Regression
+# Decision Tree
+# Convolutional Neural Network
